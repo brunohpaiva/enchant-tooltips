@@ -1,15 +1,15 @@
 object Constants {
-    const val MINECRAFT_VERSION = "1.21"
-    const val YARN_VERSION = "1.21+build.1"
-    const val LOADER_VERSION = "0.15.11"
+    const val MINECRAFT_VERSION = "1.21.2"
+    const val YARN_VERSION = "1.21.2+build.1"
+    const val LOADER_VERSION = "0.16.9"
 
-    const val CLOTH_CONFIG_VERSION = "15.0.127"
-    const val MOD_MENU_VERSION = "11.0.0-beta.1"
-    const val FABRIC_API_VERSION = "0.100.1+1.21"
+    const val CLOTH_CONFIG_VERSION = "16.0.141"
+    const val MOD_MENU_VERSION = "12.0.0-beta.1"
+    const val FABRIC_API_VERSION = "0.106.1+1.21.2"
 }
 
 plugins {
-    id("fabric-loom") version "1.6-SNAPSHOT"
+    id("fabric-loom") version "1.8-SNAPSHOT"
     id("maven-publish")
 }
 

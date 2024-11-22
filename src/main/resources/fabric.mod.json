@@ -27,10 +27,10 @@
         "enchant-tooltips.mixins.json"
     ],
     "depends": {
-        "fabricloader": ">=0.15.11",
-        "minecraft": "~1.21",
+        "fabricloader": ">=0.16.9",
+        "minecraft": "~1.21.2",
         "java": ">=21",
-        "cloth-config": ">=15.0.127"
+        "cloth-config": ">=16.0.141"
     },
     "custom": {
         "modmenu": {
